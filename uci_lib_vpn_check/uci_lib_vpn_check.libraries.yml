@@ -1,0 +1,7 @@
+global:
+  version: VERSION
+  css:
+    theme:
+      css/uci_lib_vpn_check.css: {}
+  js:
+    js/uci_lib_vpn_check.js: {}

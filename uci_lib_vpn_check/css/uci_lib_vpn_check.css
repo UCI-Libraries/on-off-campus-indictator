@@ -1,0 +1,33 @@
+.block-uci-lib-vpn-check .content {
+  margin: 0 auto;
+  /*max-width: 320px;*/
+  max-width: 620px;
+  text-align: center;
+}
+
+/*.block-uci-lib-vpn-check .content p {
+  font-size: 12px;
+}*/
+
+.block-uci-lib-vpn-check .test-vpn {
+  margin-bottom: 25px;
+}
+
+.block-uci-lib-vpn-check .vpn-test-button {
+  cursor: pointer;
+  display: inline-block;
+  margin-bottom: 7px;
+}
+
+.block-uci-lib-vpn-check .vpn-status {
+  background-color: #2D9C8B;
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px 15px;
+}
+
+.block-uci-lib-vpn-check .no-connection {
+ /*background-color: #842A2A;*/
+ background-color: #BA312B;
+}

@@ -1,0 +1,10 @@
+name: UCI Libraries VPN Checker Block
+description: Check if UCI Libraries visitors are logged into the Full Client campus VPN.
+core: 8.x
+package: Custom
+dependencies:
+- node
+- block
+type: module
+libraries:
+  - uci_lib_vpn_check/global
