@@ -6,3 +6,5 @@ The way we set it up for the libraries in our Connect page https://www.lib.uci.e
 The module has specific ip ranges that are checked with php and depending on whether if statements are true or false a message is set. All of the code can be updated in the LibVpnChecker.php file in the Block directory uci_lib_vpn_check/src/Plugin/Block/
 
 To install in Drupal 8 just upload the uci_lib_vpn_check folder to your modules custom folder, enable the module. Then add VPN Check block in a region in the structure > block layout admin page.
+
+<img src="https://www.lib.uci.edu/sites/default/files/images/modal-vpn-check-pop-up.png" alt="modal pop up screenshot"/>
