@@ -7,4 +7,4 @@ The module has specific ip ranges that are checked with php and depending on whe
 
 To install in Drupal 8 just upload the uci_lib_vpn_check folder to your modules custom folder, enable the module. Then add VPN Check block in a region in the structure > block layout admin page.
 
-<img src="https://www.lib.uci.edu/sites/default/files/images/modal-vpn-check-pop-up.png" alt="modal pop up screenshot"/>
+<img src="https://www.lib.uci.edu/sites/default/files/images/VPN_tests_screenshots.jpg" alt="modal pop up screenshot"/>
